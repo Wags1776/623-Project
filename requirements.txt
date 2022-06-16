@@ -1,12 +1,18 @@
 # make sure there were installed by the base
 numpy
 tensorflow-gpu
+tensorflow_io
 
 sklearn
 pandas
 matplotlib
 h5py
 Pillow
+Seaborn
+tifffile
+geographiclib
+
+#geopandas
 
 opencv-python
 
